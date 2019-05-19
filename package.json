@@ -1,5 +1,5 @@
 {
-  "name": "react-redux-saga-advanced-starter",
+  "name": "react-redux-saga-starter",
   "version": "1.0.0",
   "description": "Advanced starter boilerplate for React with Redux, Redux-Saga, Redux-Router and Babel support",
   "main": "index.js",
