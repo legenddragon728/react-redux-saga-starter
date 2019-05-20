@@ -4,7 +4,7 @@
   "description": "Advanced starter boilerplate for React with Redux, Redux-Saga, Redux-Router and Babel support",
   "main": "index.js",
   "repository": "https://github.com/legenddragon728/react-redux-saga-starter",
-  "author": "Legend"
+  "author": "Legend",
   "license": "ISC",
   "standard": {
     "parser": "babel-eslint",
