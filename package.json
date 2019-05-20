@@ -1,10 +1,10 @@
 {
-  "name": "react-redux-saga-starter",
+  "name": "react-redux-saga-advanced-starter",
   "version": "1.0.0",
   "description": "Advanced starter boilerplate for React with Redux, Redux-Saga, Redux-Router and Babel support",
   "main": "index.js",
   "repository": "https://github.com/legenddragon728/react-redux-saga-starter",
-  "author": "Legend",
+  "author": "legend",
   "license": "ISC",
   "standard": {
     "parser": "babel-eslint",
