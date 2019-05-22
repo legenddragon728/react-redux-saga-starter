@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/legenddragon728/react-redux-saga-starter",
   "author": "legend",
-  "license": "unlicense",
+  "license": "MIT",
   "standard": {
     "parser": "babel-eslint",
     "env": [
